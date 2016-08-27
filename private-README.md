@@ -49,8 +49,7 @@ You can download the latest
 Publify [stable release (8.3.1)](https://github.com/publify/publify/archive/v8.3.1.tar.gz)
 
 If you want to run the master branch, you can [clone the Publify
-repository](https://github.com/publify/publify.git). However, random things may
-be broken there at any time, so tread carefully!
+repository](https://github.com/publify/publify.git). However, random things may be broken there at any time, so tread carefully!
 
 **Running the master branch in production is not recommended!**
 
